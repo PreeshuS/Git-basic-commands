@@ -14,6 +14,8 @@
 # git checkout master --> Switched to branch 'master'
 # git merge fix/security --> merge branch with master branch
 # git log --> to look at the log file
+# git branch -d branch_name --> delete feature branch after merge
 
 
 # https://git-school.github.io/visualizing-git/ --> Visualizing Git
+# https://learngitbranching.js.org/ --> Check out this website for the GitGame
