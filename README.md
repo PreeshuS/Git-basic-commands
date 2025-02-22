@@ -6,3 +6,5 @@ we are learning how to make commits.
 # git commit -m "some desc"
 # git stash --> to temporary log changes
 # git stash pop --> to put the above change back in the file.
+
+# https://git-school.github.io/visualizing-git/ --> Visualizing Git
