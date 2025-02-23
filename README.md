@@ -1,4 +1,4 @@
-# Example got repository
+# Example git repository
 
 we are learning how to make commits.
 #  git add git_tutorial.py --> to stage the file after change has been made.
