@@ -35,3 +35,12 @@ we are learning how to make commits.
 # git remote add origin https://github.com/PreeshuS/Git-basic-commands.git
 # git branch -M main
 # git push -u origin main
+
+
+# When on a feature branch in VSCODE, and you want to merge remote change to 
+# git fetch origin main --> fetch any change that we don't have on local machine
+# git merge main --> this will merge all fetched changed to feature branch on local
+
+# is same as
+
+# git pull origin main --> 
