@@ -1,6 +1,6 @@
 # Example got repository
 
-# we are learning how to make commits.
+we are learning how to make commits.
 #  git add git_tutorial.py --> to stage the file after change has been made.
 # git status --> to check which files are staged.
 # git commit -m "some desc"
@@ -19,3 +19,17 @@
 
 # https://git-school.github.io/visualizing-git/ --> Visualizing Git
 # https://learngitbranching.js.org/ --> Check out this website for the GitGame
+
+create a new repository on the command line
+echo "# Git-basic-commands" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/PreeshuS/Git-basic-commands.git
+git push -u origin main
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/PreeshuS/Git-basic-commands.git
+git branch -M main
+git push -u origin main
