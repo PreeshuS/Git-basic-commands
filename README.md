@@ -20,16 +20,18 @@ we are learning how to make commits.
 # https://git-school.github.io/visualizing-git/ --> Visualizing Git
 # https://learngitbranching.js.org/ --> Check out this website for the GitGame
 
-create a new repository on the command line
-echo "# Git-basic-commands" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/PreeshuS/Git-basic-commands.git
-git push -u origin main
+# create a new repository on the command line
 
-…or push an existing repository from the command line
-git remote add origin https://github.com/PreeshuS/Git-basic-commands.git
-git branch -M main
-git push -u origin main
+# echo "# Git-basic-commands" >> README.md
+# git init
+# git add README.md
+# git commit -m "first commit"
+# git branch -M main
+# git remote add origin https://github.com/PreeshuS/Git-basic-commands.git
+# git push -u origin main
+
+# …or push an existing repository from the command line
+
+# git remote add origin https://github.com/PreeshuS/Git-basic-commands.git
+# git branch -M main
+# git push -u origin main
